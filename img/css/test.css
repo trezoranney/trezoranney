@@ -1,6 +1,32 @@
-.nouchi{
+.nav{
+    background-color: grey;
+    display: inline;
+}
+
+.first_div{
     background-color: blue;
 }
-.adjame{
-    background-color: cornflowerblue;
+
+.second_div{
+    background-color: lightgrey;
+}
+
+.third_div{
+    background-color: yellow;
+}
+
+.banner_left{
+    display: inline;
+    float: left;
+    padding-right: 0;
+}
+
+.banner_right{
+    display: inline;
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
 }
